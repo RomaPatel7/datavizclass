@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub Stock_Hard()
 
 Dim WS As Worksheet
@@ -104,4 +103,3 @@ Dim WS As Worksheet
         
     Next WS
 End Sub
-
