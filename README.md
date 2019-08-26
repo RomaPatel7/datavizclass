@@ -1,5 +1,5 @@
 # datavizclass
 # HW assignments completed
-# Roma Patel
-# Rutgers Data Science BootCamp
-# M/W August 2019 - February 2020
+Roma Patel
+Rutgers Data Science BootCamp
+M/W August 2019 - February 2020
